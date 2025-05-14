@@ -1,0 +1,14 @@
+flask
+torch
+transformers
+pandas
+scikit-learn
+numpy
+matplotlib
+seaborn
+yfinance
+tqdm
+requests
+peft
+accelerate
+einops

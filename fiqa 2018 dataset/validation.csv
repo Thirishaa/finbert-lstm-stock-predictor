@@ -1,0 +1,103 @@
+sentence,snippets,target,sentiment_score,aspects,format,label
+Teva: FDA Approves Generic Version of AstraZeneca Heartburn Drug,['FDA Approves'],AstraZeneca,0.242,['Corporate/Regulatory'],headline,0
+Glencore sees Tripoli-based NOC as sole legal seller of Libyan oil,['as sole legal seller of Libyan oil'],Glencore,0.037,['Corporate/Legal'],headline,1
+"You know that back seat? Don't sit in it. - $TSLA -> Tesla recalls 2,700 Model X cars https://t.co/7J0Gwz89ZC","['Tesla recalls 2,700 Model X cars']",TSLA,-0.319,['Corporate/Risks/Product Recall'],post,2
+Short interest increases yet again http://stks.co/e19h via @ryandetrick $SPY,['Short interest increases yet again'],SPY,-0.342,['Stock/Fundamentals/Short Interest Rate'],post,2
+#Tesla Model S deliveries are up 35% in Germany - record deliveries in March [Chart] https://t.co/yCnClcBImV  $TSLA,['deliveries are up 35% in Germany - record deliveries in March'],TSLA,0.365,['Corporate/Sales'],post,0
+Insurers: Admiral blows hot and cold but Aviva soars pre-Friends Life merger,['Admiral blows hot and cold'],Friends Life,0.053,['Stock/Price Action/Volatility/Stock Volatility'],headline,1
+S&P downgrades Barclays and RBS on government bailout fears,['downgrades Barclays and RBS'],RBS,-0.53,['Stock/Coverage/AnalystRatings/downgrade'],headline,2
+Berkshire Hathaway names Kara Raiguel to lead General Re unit,['names Kara Raiguel to lead General Re unit'],Berkshire,0.077,['Corporate/Appointment'],headline,1
+$NVDA sideways,['sideways'],NVDA,0.0,['Stock/Price Action'],post,1
+$FB watching for bounce tomorrow,['watching for bounce tomorrow'],FB,0.366,['Stock/Price Action/Bullish'],post,0
+$AMZN Trailing 12 months operating cash flow rose 48% to $4.98 billion & free cash flow decreased 63% to $388 million http://stks.co/c06zG,['Trailing 12 months operating cash flow'],AMZN,-0.009,['Corporate/Financial/Accounting/Cash Flow'],post,1
+Sainsbury sells unit to LloydsPharmacy,['sells unit to LloydsPharmacy'],Sainsbury,0.234,['Corporate/Sales/Deal'],headline,0
+Morrisons and Debenhams surprise City with Christmas bounce back,['with Christmas bounce back'],Debenhams,0.573,['Stock/Price Action/Volatility'],headline,0
+Randgold profit hit by poor gold price but dividend still increases,['dividend still increases'],Rangold,-0.052,['Corporate/Dividend Policy'],headline,1
+"$HAL If bulls lucky enuff to get an upside gap fill, better take it. Wouldn't chase it here. http://stks.co/r12Us","['If bulls lucky enuff to get an upside gap fill,']",HAL,0.054,['Stock/Price Action/Bullish/Bullish Behavior'],post,1
+Look at that $AMZN > 600,['Look at that $AMZN > 600'],AMZN,0.326,['Stock/Price Action/Bullish'],post,0
+$BWLD bearish engulfing candle,['bearish engulfing candle'],BWLD,-0.532,['Stock/Technical Analysis'],post,2
+UPDATE 1-Lloyds to cut 945 jobs as part of 3-year restructuring plan,['cut 945 jobs as part of 3-year restructuring plan'],Lloyds,-0.266,['Corporate/Strategy'],headline,2
+SABMiller revenue hit by weaker EM currencies,['hit by weaker EM currencies'],SAB Miller,-0.439,['Market/Currency'],headline,2
+"I'm liking the price action in $SWKS, currently @21.80 ; my target: 24.00+ before year end.","[""I'm liking the price action""]",SWKS,0.603,['Stock/Price Action'],post,0
+AstraZeneca diabetes drug combination faces delay after FDA rebuff,['faces delay after FDA rebuf'],AstraZeneca,-0.391,['Corporate/Risks'],headline,2
+SAB's Chairman Digs In With Board Divided on InBev Offer,['Digs In With Board Divided on InBev Offer'],SABMiller,0.016,['Corporate/Reputation/Dispute'],headline,1
+$SPY Could the pride of social media be gettin ready to fall?  $FB - chart rolling over?,['chart rolling over'],SPY,-0.287,['Stock/Technical Analysis'],post,2
+$GALE Breakout Coming Soon!,['Breakout Coming Soon!'],GALE,0.465,['Stock/Technical Analysis/Breakout'],post,0
+MarketsBP promotes upstream boss to deputy CEO,['promotes upstream boss to deputy CEO'],BP,0.066,['Corporate/Appointment'],headline,1
+Glencore sees Tripoli-based NOC as sole legal seller of Libyan oil,['as sole legal seller of Libyan oil'],Glencore,0.037,['Corporate/Legal'],headline,1
+$PLUG bear raid,['bear raid'],PLUG,-0.48,['Stock/Price Action/Bearish'],post,2
+My $DWA play up 6% today. I'm still skeptical. Will take profits. Not a time cheer,"[""I'm still skeptical. Will take profits""]",DWA,-0.088,['Stock/Price Action/Bearish'],post,1
+"Sainsbury's, Asda, Tesco and Morrisons will all cut petrol prices as oil falls ...",['will all cut petrol prices as oil falls ...'],Morrisons,-0.251,['Stock/Price Action/Future Price'],headline,2
+Novartis buys remaining rights to GSK treatment in deal up to $1 billion,['buys remaining rights to GSK treatment in deal up to $1 billion'],Novartis,0.217,['Corporate/Sales/Deal'],headline,0
+UPDATE 1-BP shareholders back more disclosure on climate change risks,['shareholders back more disclosure on climate change risks'],BP,0.037,['Corporate/Risks'],headline,1
+"You know that back seat? Don't sit in it. - $TSLA -> Tesla recalls 2,700 Model X cars https://t.co/7J0Gwz89ZC","['Tesla recalls 2,700 Model X cars']",TSLA,-0.319,['Corporate/Risks/Product Recall'],post,2
+Buffett's Company Reports 37 Percent Drop in 2Q Earnings,['Reports 37 Percent Drop in 2Q Earnings'],Berkshire Hathaway Inc.,-0.566,['Corporate/Company Communication'],headline,2
+"$WGO's BoD was right to reject the offer. That company is low because of the economy, not because of any type of mismanagement or anything.",['was right to reject the offer'],WGO,0.076,['Corporate/M&A'],post,1
+Unilever profit rises despite sales slump in China,['despite sales slump'],Unilever,0.213,['Corporate/Sales'],headline,0
+"PRESS: Serco Set To Appoint Roy Gardner, Ex-Centrica, As Chairman - FT","['Set To Appoint Roy Gardner, Ex-Centrica, As Chairman - FT']",Centrica,0.195,['Corporate/Appointment'],headline,0
+Hard to find new buyers of $TSLA at 250.  Shorts continue to pile in.,['Shorts continue to pile in.'],TSLA,-0.373,['Stock/Price Action/Volatility/Short Selling'],post,2
+$FB (110.20) is starting to show some relative strength and signs of potential B/O on the daily.,['starting to show some relative strength and signs of potentia'],FB,0.334,['Stock/Price Action/Bullish/Bullish Behavior'],post,0
+"$TSLA steaming up again, this stock is relentless at the moment","['steaming up again, this stock is relentless at the moment']",TSLA,0.535,['Stock/Price Action/Bullish/Bullish Behavior'],post,0
+$AAPL wants lower. up waves getting smaller on the 2 min,['wants lower. up waves getting smaller'],AAPL,-0.37,['Stock/Price Action/Bearish/Bearish Behavior'],post,2
+"Britain's FTSE steadies, supported by Dixons Carphone","['FTSE steadies, supported by Dixons Carphone']",Dixons Carphone,0.329,['Stock/Price Action'],headline,0
+Insurers: Admiral blows hot and cold but Aviva soars pre-Friends Life merger,['Admiral blows hot and cold'],Friends Life,0.053,['Stock/Price Action/Volatility/Stock Volatility'],headline,1
+$AAPL 620 resistance area,['620 resistance area'],AAPL,-0.025,['Stock/Technical Analysis'],post,1
+InterContinental Hotels first-quarter global room revenue lags estimates,['first-quarter global room revenue'],InterContinental,-0.329,['Corporate/Sales'],headline,2
+"$HAL If bulls lucky enuff to get an upside gap fill, better take it. Wouldn't chase it here. http://stks.co/r12Us","['If bulls lucky enuff to get an upside gap fill,']",HAL,0.054,['Stock/Price Action/Bullish/Bullish Behavior'],post,1
+"UPDATE: EasyJet Passenger Numbers, Aer Lingus Traffic Up In February",['Traffic Up'],Aer Lingus,0.284,['Corporate/Sales'],headline,0
+"$ADBE technical alerts: Expansion Breakout, Gilligan's Island Sell Setup, Volume Surge, and New 52... https://t.co/LxX66tknFH",['technical alerts'],ADBE,0.208,['Stock/Technical Analysis'],post,0
+Randgold profit hit by poor gold price but dividend still increases,['dividend still increases'],Rangold,-0.052,['Corporate/Dividend Policy'],headline,1
+"$WGO's BoD was right to reject the offer. That company is low because of the economy, not because of any type of mismanagement or anything.",['was right to reject the offer'],WGO,0.076,['Corporate/M&A'],post,1
+#Tesla: Model X Recall Adds To Reliability Issues $TSLA https://t.co/jVXQ4DoXnP,['Recall Adds To Reliability Issues'],TSLA,-0.267,['Corporate/Risks/Product Recall'],post,2
+UPDATE 1-Meggitt reiterates annual outlook after tough 2014,['reiterates annual outlook after tough 2014'],Meggitt,0.021,['Stock/Fundamentals'],headline,1
+"Last month we added to our $GILD position and started a new one in $BWLD We see slow, steady, unspectacular growth going forward near term","['We see slow, steady, unspectacular growth going forward near term']",GILD,0.422,['Stock/Fundamentals'],post,0
+"Despite sales growth, UK's Tesco cautions recovery to be bumpy","['Despite sales growth,']",Tesco,-0.077,['Corporate/Sales'],headline,1
+InterContinental Hotels first-quarter global room revenue lags estimates,['first-quarter global room revenue'],InterContinental,-0.329,['Corporate/Sales'],headline,2
+Breaking: Tesla recalls all Model X cars  .. details on show now $TSLA,['recalls all Model X cars'],TSLA,-0.308,['Corporate/Risks/Product Recall'],post,2
+Royal Mail gets mixed bag from Ofcom postal regulation report,['postal regulation report'],Royal Mail,-0.084,['Corporate/Regulatory'],headline,1
+New recommendation from Carl Kirst of BMO Capital Markets for $WMB is BUY.Price target is $62:http://stks.co/t0S0r,['New recommendation from Carl Kirst of BMO Capital Markets for'],WMB,0.566,['Stock/Coverage/AnalystRatings'],post,0
+Double bottom with handle buy point of 29.51 $IP http://chart.ly/akvujxh,['Double bottom with handle buy point'],IP,0.446,['Stock/Technical Analysis'],post,0
+#NDX component Tesla has announced it is recalling 2700 Model X SUVs. $TSLA,['announced it is recalling 2700 Model'],TSLA,-0.221,['Corporate/Risks/Product Recall'],post,2
+"$NFLX small pos, short 180 wkly puts.","['small pos, short 180 wkly puts.']",NFLX,-0.597,['Stock/Options/Strategies/Bear Put Spread'],post,2
+"Apple expected to launch new iPhone, iPad today $AAPL https://t.co/XfnICWeBeG",['Apple expected to launch new iPhone'],AAPL,0.264,['Corporate/Strategy/New Product'],post,0
+Aviva shuts Friends Life head office in rapid integration move,['shuts Friends Life head office in rapid integration move'],Friends Life,-0.09,['Corporate/Strategy/Corporate Expansion'],headline,1
+Exact (EXAS) Flagged As Strong On High Volume $EXAS http://stks.co/r26Ra,['Flagged As Strong On High Volume'],EXAS,0.385,['Stock/Price Action/Bullish'],post,0
+"2nd raise this year.  ""@BVHealthcare: $QCOR Questcor Increases Quarterly Cash Dividend 20 Percent.. http://stks.co/goan""",['Increases Quarterly Cash Dividend'],QCOR,0.576,['Corporate/Dividend Policy'],post,0
+"UK housing market steadies after Brexit dip, Persimmon says",['housing market'],Perssimon,0.339,['Market/Market'],headline,0
+Royal Mail share price edges lower as group raises stamp price,['share price edges lower'],Royal Mail,-0.269,['Stock/Price Action'],headline,2
+"$ESI on lows, down $1.50 to $2.50 BK a real possibility","['on lows, down $1.50 to $2.50']",ESI,-0.465,['Stock/Price Action/Bearish/Bearish Behavior'],post,2
+RBS will reportedly appoint Howard Davies as its next chairman,['reportedly appoint Howard Davies as its next chairman'],RBS,0.089,['Corporate/Appointment'],headline,1
+Berkshire Hathaway names Kara Raiguel to lead General Re unit,['names Kara Raiguel to lead General Re unit'],Berkshire,0.077,['Corporate/Appointment'],headline,1
+"Ingenious, HSBC, UBS and Coutts sued by 'tax avoidance' clients",['sued by 'tax avoidance' clients'],Coutts,-0.248,['Corporate/Legal/Lawsuit'],headline,2
+Severn Trent share price jumps as Canadian investor renews pursuit of utility,['share price jumps'],Severn Trent,0.433,['Stock/Price Action'],headline,0
+SAB's Chairman Digs In With Board Divided on InBev Offer,['Digs In With Board Divided on InBev Offer'],SABMiller,0.016,['Corporate/Reputation/Dispute'],headline,1
+AstraZeneca suffers setback after drug fails to treat eye cancer,['suffers setback'],AstraZeneca,-0.392,['Corporate/Risks'],headline,2
+$WYNN big bounce,['big bounce'],WYNN,0.61,['Stock/Price Action/Bullish'],post,0
+Investors Remain Skeptical About Shell-BG Deal,['Investors Remain Skeptical About Shell-BG Deal'],Shell,-0.266,['Corporate/Rumors/Rumors'],headline,2
+$NVDA sideways,['sideways'],NVDA,0.0,['Stock/Price Action'],post,1
+Academics claim Google Android two-factor authentication is breakable. #security #authentication #hacking $goog https://t.co/nJx4mnrGLo,['Android two-factor authentication is breakable'],GOOG,-0.309,['Corporate/Risks/Hacks'],post,2
+Meggitt share price tumbles as profit falls in 'challenging year',['tumbles as profit falls in 'challenging year''],Meggitt,-0.854,['Stock/Price Action'],headline,2
+Germanwings disaster will not affect image of budget air travel - easyJet,['will not affect image of'],Germanwings,-0.046,['Corporate/Reputation'],headline,1
+Johnson Matthey revs up on clean air drive,['revs up on clean air drive'],Johnson Matthey,0.224,['Corporate/Strategy'],headline,0
+Morrisons faces festive sales test,['festive sales test'],Morrisons,-0.113,['Corporate/Sales'],headline,2
+$AMZN Trailing 12 months operating cash flow rose 48% to $4.98 billion & free cash flow decreased 63% to $388 million http://stks.co/c06zG,['Trailing 12 months operating cash flow'],AMZN,-0.009,['Corporate/Financial/Accounting/Cash Flow'],post,1
+Eli Lilly & Co. (LLY) Has Broken Out To A New High On AstraZeneca Collaboration,['Has Broken Out To A New High'],Eli Lilly & Co,0.516,['Stock/Technical Analysis/Volume/Unusually high volume'],headline,0
+"Goldman Sachs, Barclays, HSBC downplay Brexit threat",['downplay Brexit threat'],Barclays,0.0,['Corporate/Risks'],headline,1
+Germanwings disaster will not affect image of budget air travel - easyJet,['will not affect image of'],Germanwings,-0.046,['Corporate/Reputation'],headline,1
+InterContinental Hotels Denies Reports of Starwood Merger Talks,['Denies Reports of Starwood Merger Talks'],Starwood,-0.078,['Corporate/Rumors/Scoop'],headline,1
+Windows 10 is awful why did it force an upgrade on my pc without my consent? #windows #Microsoft $msft,['is awful why did it force an upgrade on my pc without my consent?'],MSFT,-0.49,['Corporate/Risks/Product Flaws'],post,2
+"$CNP Sell Short Position on CNP,...Closed for Profit $ 59,367.00 (7.75%) http://stks.co/ghjc",['Sell Short Position on'],CNP,0.155,['Stock/Price Action/Volatility/Short Selling'],post,0
+"BHP Billiton slashes dividend, posts $5.67 billion net loss",['slashes dividend'],BHP Billiton,-0.341,['Corporate/Dividend Policy'],headline,2
+$BAC $ADSK $NFLX long this morning,['long this morning'],NFLX,0.476,['Stock/Price Action/Bullish/Bull Position'],post,0
+GSK joins China trade push as UK trumpets healthcare deals,['joins China trade push'],GSK,0.294,['Economy/Trade'],headline,0
+Tesco sells half of stake in ecommerce site Lazada to Alibaba for ÃÂ£90m,['sells half of stake in ecommerce site Lazada to Alibaba for ÃÂ£90m'],Lazada,-0.038,['Stock/Price Action/Volatility/Sell-Off'],headline,1
+"News FeedSchroders books solid earnings growth, several board changes",['s books solid earnings growth'],Schroders,0.5,['Stock/Fundamentals'],headline,0
+longed $AMZN 300 @ 189.82,['longed'],AMZN,0.65,['Stock/Price Action/Bullish/Bull Position'],post,0
+"$ZSL looking very weak, could be a good short setup.","['looking very weak, could be a good short setup.']",ZSL,-0.614,['Stock/Price Action/Bearish/Bearish Behavior'],post,2
+Glencore sees Tripoli-based NOC as sole legal seller of Libyan oil,['as sole legal seller of Libyan oil'],Glencore,0.037,['Corporate/Legal'],headline,1
+$PYPL great vol flow trade here.. Love this company long time.,['great vol flow trade here'],PYPL,0.408,['Stock/Price Action/Bullish'],post,0
+Short interest increases yet again http://stks.co/e19h via @ryandetrick $SPY,['Short interest increases yet again'],SPY,-0.342,['Stock/Fundamentals/Short Interest Rate'],post,2
+CompaniesMeggitt profits hit by weak energy and military markets,['profits hit by weak energy and military markets'],Meggitt,-0.302,['Market/Market'],headline,2
+Glencore sees Tripoli-based NOC as sole legal seller of Libyan oil,['as sole legal seller of Libyan oil'],Glencore,0.037,['Corporate/Legal'],headline,1
+Copper market may get a 2003-style supply shock from Glencore closures,['Copper market'],Glencore,-0.571,['Market/Market'],headline,2
+$PLUG Closed short position. Small gain. Not interested in options expiring worthless,['Closed short position. Small gain.'],PLUG,0.143,['Stock/Price Action/Volatility/Short Selling'],post,0

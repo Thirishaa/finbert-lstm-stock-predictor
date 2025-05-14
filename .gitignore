@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.zip
+*.tar.gz
+.env
+.DS_Store
+.idea/
+.vscode/
+*.safetensors
+*.pt

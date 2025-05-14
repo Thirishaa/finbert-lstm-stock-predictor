@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Stock Sentiment Analyzer</title>
+    <style>
+        body {
+            background: #e8f0fe;
+            font-family: 'Segoe UI', sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .form-card {
+            background: white;
+            padding: 2rem;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        input[type="text"] {
+            padding: 0.5rem;
+            border-radius: 6px;
+            border: 1px solid #ccc;
+            width: 200px;
+        }
+        button {
+            padding: 0.5rem 1rem;
+            border: none;
+            background: #007bff;
+            color: white;
+            border-radius: 6px;
+            margin-top: 1rem;
+            cursor: pointer;
+            width: 100%;
+        }
+        h1 {
+            color: #007bff;
+            margin-bottom: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="form-card">
+        <h1>Stock Sentiment Analyzer</h1>
+        <form action="/analyze_lstm" method="post">
+            <label for="ticker">Enter Stock Ticker:</label><br>
+            <input type="text" id="ticker" name="ticker" placeholder="e.g., AAPL" required><br>
+            <button type="submit">Analyze Stock Movement (LSTM)</button>
+        </form>
+        <form action="/" method="post">
+            <input type="hidden" name="ticker" value="">
+            <button type="submit">Analyze Sentiment of the Company</button>
+        </form>
+        
+    </div>
+
+   <script>
+document.addEventListener("DOMContentLoaded", function () {
+    const tickerInput = document.getElementById("ticker");
+    const forms = document.querySelectorAll("form");
+
+    tickerInput.addEventListener("input", () => {
+        forms.forEach(form => {
+            const hiddenInput = form.querySelector("input[type='hidden']");
+            if (hiddenInput) hiddenInput.value = tickerInput.value;
+        });
+    });
+});
+</script>
+  
+</body>
+</html>

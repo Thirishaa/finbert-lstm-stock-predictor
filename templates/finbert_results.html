@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ ticker }} Sentiment Results</title>
+    <style>
+        body {
+            background: #f0f8ff;
+            font-family: 'Segoe UI', sans-serif;
+            padding: 2rem;
+        }
+        .card {
+            background: white;
+            padding: 2rem;
+            border-radius: 12px;
+            max-width: 800px;
+            margin: auto;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #007bff;
+            text-align: center;
+        }
+        h3 {
+            margin-top: 2rem;
+            color: #333;
+        }
+        .headline {
+            margin-top: 1rem;
+        }
+        .label {
+            display: inline-block;
+            padding: 0.25rem 0.5rem;
+            border-radius: 6px;
+            color: white;
+            font-weight: bold;
+        }
+        .Positive { background: #28a745; }
+        .Negative { background: #dc3545; }
+        .Neutral { background: #6c757d; }
+
+        .plot-container {
+            text-align: center;
+            margin-top: 2rem;
+        }
+        img {
+            max-width: 100%;
+            border-radius: 8px;
+        }
+        a {
+            display: inline-block;
+            margin-top: 2rem;
+            text-decoration: none;
+            color: #007bff;
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        hr {
+            border: 0;
+            height: 1px;
+            background: #ddd;
+            margin: 1rem 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h2>📰 {{ ticker }} Daily Sentiment Summary</h2>
+
+        <p><strong>Date:</strong> {{ summary.date }}</p>
+        <p><strong>Day Sentiment:</strong>
+            <span class="label {{ summary.day_sentiment }}">{{ summary.day_sentiment }}</span>
+        </p>
+        <p><strong>Representative Headline:</strong> {{ summary.representative_title }}</p>
+
+        <h3>🔍 Top Headlines</h3>
+        {% for item in news_data %}
+            <div class="headline">
+                <p><strong>{{ loop.index }}.</strong> {{ item.title }}</p>
+                <p>Sentiment:
+                    <span class="label {{ item.sentiment }}">{{ item.sentiment }}</span>
+                </p>
+                <p>Scores → 👍 {{ item.positive | round(3) }} | 😐 {{ item.neutral | round(3) }} | 👎 {{ item.negative | round(3) }}</p>
+                <hr>
+            </div>
+        {% endfor %}
+
+        {% if sentiment_plot %}
+        <div class="plot-container">
+            <h3>📊 Sentiment Distribution</h3>
+            <img src="{{ url_for('static', filename='plots/' + sentiment_plot) }}" alt="Sentiment Plot">
+        </div>
+        {% endif %}
+
+        <a href="/">← Back to Home</a>
+    </div>
+</body>
+</html>
